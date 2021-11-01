@@ -1,3 +1,3 @@
-this is the first txt file
+This is The first txt file
 
-this is next line added
+This is Next line added
